@@ -21,5 +21,4 @@ tests/
 tapes.db
 upload_test.sh
 
-# Additional exclusions when building from source
-yatm--.tar.gz
+
